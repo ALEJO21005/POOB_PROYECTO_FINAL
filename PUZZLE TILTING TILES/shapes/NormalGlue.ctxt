@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NormalGlue
+comment1.params=
+comment1.target=NormalGlue()
+comment2.params=xPos\ yPos
+comment2.target=void\ relocate(int,\ int)
+comment3.params=
+comment3.target=boolean\ canMove()
+numComments=4

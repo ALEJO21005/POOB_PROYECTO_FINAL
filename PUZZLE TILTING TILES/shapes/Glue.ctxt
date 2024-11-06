@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Glue
+comment1.params=
+comment1.target=Glue()
+comment2.params=xPos\ yPos\ radius
+comment2.target=void\ setDimensions(int,\ int,\ int)
+comment3.params=isRoot
+comment3.target=void\ setRoot(boolean)
+comment4.params=
+comment4.target=boolean\ isRoot()
+comment5.params=xPos\ yPos
+comment5.target=void\ relocate(int,\ int)
+comment6.params=
+comment6.target=boolean\ canMove()
+numComments=7
