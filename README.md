@@ -44,7 +44,9 @@ El informe de Quodana mostró de manera clara los cambios implementados y destac
 
 Para ver a mas detalle el informe podrás ingresar dando click en este link [https://qodana](https://qodana.cloud/projects/ANl4K/reports/LML5b)
   
-
+# Autores
+  - Sergio Alejandro Idarraga
+  - Santiago Carmona Pineda
 
 
 
